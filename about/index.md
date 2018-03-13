@@ -1,17 +1,48 @@
 ---
 layout: page
 current: about
-title: About
+title: About Buhler
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+[*The Buhler Report*](/blog) is a blog about recent news and timeless truths. The intended audience is anyone pursuing wisdom. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+The main themes include [classical education](/categories/#Classical education-ref), [philosophy](/categories/#Philosophy-ref), [politics](/categories/#Politics-ref), as well as high culture and pop culture. 
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+Leave a comment, share your thoughts, and let me know which topics you'd like to hear discussed. Thanks for visiting. 
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+Intrepid souls can explore the [sandbox](/sandbox/) for a variety of fun projects including art, fiction, and interviews with philosophers. 
+
+
+
+# About Buhler
+
+* *"Makes philosophy come alive"*  --[Dr. Chris Bounds, Asbury University](https://www.asbury.edu/academics/departments/christian-studies-philosophy/faculty-staff/chris-bounds)
+
+* *"A good-conversation machine"* --[Dr. Andrew Selby, Trinity Classical Academy](https://baylor.academia.edu/AndrewSelby)
+
+* *"Enthusiastic, personable, and precise"* --[Dr. Dan Breazeale, University of Kentucky](https://philosophy.as.uky.edu/users/breazeal)
+
+* *“A deep thinker with a jovial personality”* --[Jimmy Prehn, Pixona](https://www.linkedin.com/in/jrprehn/)
+
+*  *"Dynamism, acumen, and compassion"*   --[Peter Gross, Wheatstone Academy](http://www.wheatstoneministries.com/people/)
+
+* *"Give[s] me great hope for our next generation"* --[Cinda Tribble, Institute for Excellence in Writing](http://iew.com/cinda-tribble)
+
+
+<br>
+
+<img src="/images/keithbuhler-golden.jpg" align="right" hspace="20" border="1px">
+
+Keith Buhler ([Ph.D.](/phd) University of Kentucky) is a philosopher and writer from Los Angeles, CA.
+
+He currently teaches History and Greek Language at a classical school in CA. Before that, he was a philosophy instructor at Asbury University and post-doc at the University of Kentucky. 
+
+He has written two books: the first was a self-published [Platonic dialogue](http://bitly.com/ScriptureOrTradition) about Scripture and Tradition. The second, his philosophy dissertation, is about contemporary forms of Aristotle's virtue ethics. It is titled [Becoming What We Are](/phd). 
+
+His non-fiction writings on education, culture, and theology have been published in a variety of venues such as Wheatstone Academy's *The Examined Life*, the *Word* magazine, MereOrthodoxy.com.
+
+He studied with [David Bradshaw](https://uky.academia.edu/DBradshaw) and also completed an M.A. in Orthodox Theology from the University of Balamand. His B.A. in Humanities is from Biola University and the Torrey Honors Institute.  

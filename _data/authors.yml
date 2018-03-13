@@ -1,16 +1,16 @@
 ghost:
-  username: ghost
-  name: Ghost
-  url_full: http://myJekyll.github.io/jasper2/
+  username: keith
+  name: Keith Buhler
+  url_full: http://keithbuhler.com
   url: myJekyll.github.io/jasper2
-  bio: The professional publishing platform
+  bio: Philosopher, classical teacher, writer
   picture: assets/images/ghost.png
   facebook: ghost
   twitter: tryghost
   cover: False
 hannah:
-  username: hannah
-  name: Hannah Wolfe
+  username: adam
+  name: Adam Burge
   location: London, UK
   url_full: http://hannah.wf/
   url: hannah.wf
