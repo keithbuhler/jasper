@@ -5,11 +5,11 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: /jasper2/
+baseurl: /jasper/
 
 # Website info
-title: Ghost
-description: The professional publishing platform
+title: Keith Buhler
+description: Pursuing Wisdom 
 cover: assets/images/blog-cover.jpg
 logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
@@ -27,10 +27,10 @@ facebook: ghost # replace by your username
 
 # Disqus
 disqus: False
-disqus_shortname: myjekyll # replace with your disqus username
+disqus_shortname: circularreason2 # replace with your disqus username
 
 # Google Analytics
-google_analytics: UA-69281367-1 # replace with your GA tracking identifier
+google_analytics: # replace with your GA tracking identifier
 
 # Permalinks
 permalink: /:title
