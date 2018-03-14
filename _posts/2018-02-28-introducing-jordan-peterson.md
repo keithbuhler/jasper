@@ -10,9 +10,9 @@ tags: [politics]
 categories: [Politics]
 excerpt_separator: <!--more-->
 permalink: /jbp
+cover: https://spectator.imgix.net/content/uploads/2018/01/jordanpeterson.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=820&h=550
+author: keith
 ---
-
-![header](https://spectator.imgix.net/content/uploads/2018/01/jordanpeterson.jpg?auto=compress,enhance,format&crop=faces,entropy,edges&fit=crop&w=820&h=550)
 
 
 If you're just hearing about JBP, don't let anyone define him into a box for you, too quickly. Get to know him.
