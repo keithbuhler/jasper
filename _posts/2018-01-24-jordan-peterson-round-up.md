@@ -9,6 +9,7 @@ comments: true
 tags: [politics]
 categories: [Politics]
 excerpt_separator: <!--more-->
+cover: bus.jpg
 permalink: /jbp
 ---
 
