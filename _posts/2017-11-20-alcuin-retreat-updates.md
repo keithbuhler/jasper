@@ -1,6 +1,6 @@
 ---
 title: The Alcuin Retreat (Updated)
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

@@ -1,6 +1,6 @@
 ---
 title: A Jordan Peterson Round Up
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
@@ -9,7 +9,6 @@ comments: true
 tags: [politics]
 categories: [Politics]
 excerpt_separator: <!--more-->
-cover: bus.jpg
 permalink: /jbp
 ---
 

@@ -4,7 +4,7 @@ categories: [Philosophy]
 tags: [prayer, Roger Scruton, god]
 permalink: 
 excerpt_separator: <!--more-->
-layout: post
+layout: single
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---

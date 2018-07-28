@@ -1,6 +1,6 @@
 ---
 title: The Last Jedi Had to be Surprising... and it Succeeded
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

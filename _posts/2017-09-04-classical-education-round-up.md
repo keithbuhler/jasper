@@ -1,6 +1,6 @@
 ---
 title: Classical Education News Weekly Round-Up
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

@@ -1,6 +1,6 @@
 ---
 title: The Music of Lomanchenko 
-layout: post
+layout: single
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

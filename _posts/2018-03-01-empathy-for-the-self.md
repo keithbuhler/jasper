@@ -1,16 +1,18 @@
 ---
 title: Seeing Other as Self, Seeing Self as Other
-layout: post
+layout: single
 share: true
+header:
+      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true
 comments: true
-tags: [Culture]
+tags: [culture]
 categories: [Culture]
 excerpt_separator: <!--more-->
 permalink: 
-cover: http://images.hobomama.com/babies-ponijao-smiling.png
-author: keith
 ---
+
+![header](http://images.hobomama.com/babies-ponijao-smiling.png)
 
 
 One of the great blessings of travel is being able not only to see another culture, but returning to your own culture and *seeing yourself* with fresh eyes. Mirrors can't do that.
