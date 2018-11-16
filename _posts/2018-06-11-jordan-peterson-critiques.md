@@ -1,9 +1,9 @@
 --- 
 title: "Oh look, another article criticizing Jordan Peterson"
 layout: post
+class: post-template
 share: true
-header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+cover: https://spectator.imgix.net/content/uploads/2018/01/jordanpeterson.jpg
 share: true
 comments: true
 tags: [Politics]

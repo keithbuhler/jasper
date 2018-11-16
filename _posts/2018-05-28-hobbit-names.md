@@ -1,6 +1,8 @@
 --- 
 title: Where Tolkien got the Hobbit Names
 layout: post
+class: post-template
+cover: http://www.theonering.net/torwp/wp-content/uploads/2014/07/follow-me.jpg
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

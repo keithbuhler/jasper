@@ -1,9 +1,9 @@
 --- 
 title: Chris Pratt, actor, troll, and preacher. 
 layout: post
+class: post-template
 share: true
-header:
-      image: http://www.keithbuhler.com/images/banner-buhler-report.svg
+cover: https://media1.popsugar-assets.com/files/thumbor/ODiLT6G8PB0FINxpY-eNs8aqmSA/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2018/06/18/159/n/1922398/1d484c6cab372d77_GettyImages-978186982/i/Chris-Pratt-Acceptance-Speech-MTV-Awards-2018.jpg
 share: true
 comments: true
 tags: [Culture]
