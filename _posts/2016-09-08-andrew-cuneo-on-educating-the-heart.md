@@ -1,6 +1,6 @@
 ---
 title: Andrew Cuneo on Educating the Heart
-layout: single
+layout: post
 categories: [Classical education]
 tags: [classical education]
 permalink: 

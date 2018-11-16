@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://i.telegraph.co.uk/multimedia/archive/02790/Peter-Geach_2790820b.jpg
 permalink: 
-layout: single
+layout: post
 tags: [logic]
 comments: true
 author_profile: false

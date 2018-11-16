@@ -1,6 +1,6 @@
 ---
 title: A New M.A. Degree in Literature, Specializing in Tolkien Studies
-layout: single
+layout: post
 tags: [inklings, classical education]
 categories: [Classical education]
 permalink: 

@@ -1,6 +1,6 @@
 ---
 title: A Recommendation to Watch the Episode VII Special Features
-layout: single
+layout: post
 permalink:
 categories: [Culture]
 tags: [Star Wars, culture]

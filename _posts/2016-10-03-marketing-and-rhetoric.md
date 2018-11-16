@@ -1,6 +1,6 @@
 ---
 title: Marketing and the Corruption of Rhetoric
-layout: single
+layout: post
 categories: [Classical education]
 tags: [classical education]
 permalink: 

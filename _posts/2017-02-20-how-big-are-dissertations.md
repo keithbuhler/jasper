@@ -6,7 +6,7 @@ header:
       teaser: http://www.keithbuhler.com/images/dissertation-cover.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
 tags: [workflow, dissertations, writing]
 comments: true
 author_profile: false

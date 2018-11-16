@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://media.breitbart.com/media/2016/01/coulter-headshot-640x480-640x480.jpg
 permalink: 
-layout: single
+layout: post
 tags: [humor, ann coulter,]
 comments: true
 author_profile: false

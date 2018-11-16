@@ -5,7 +5,7 @@ header:
     image: http://www.goodnewsnetwork.org/wp-content/uploads/2016/12/Mcgraw-and-Jones-Youtube.jpg
 teaser: 
 permalink: 
-layout: single
+layout: post
 tags: []
 comments: true
 author_profile: false

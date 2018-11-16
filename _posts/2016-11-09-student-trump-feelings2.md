@@ -1,6 +1,6 @@
 ---
 title: Mini Exit Survey -- Student Feelings about Trump
-layout: single
+layout: post
 permalink: 
 categories: [Politics]
 comments: true

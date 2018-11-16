@@ -1,6 +1,6 @@
 ---
 title: How Will Trump's Saudi Arabia Trip be Spun?
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: Why ISIS plans to target Anglo Saxons

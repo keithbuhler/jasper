@@ -1,6 +1,6 @@
 ---
 title: Looking for the Real Jesus... with Science?
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

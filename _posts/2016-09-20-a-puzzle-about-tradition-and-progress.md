@@ -1,6 +1,6 @@
 ---
 title: A Puzzle about Tradition and Progress
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy]
 permalink: 

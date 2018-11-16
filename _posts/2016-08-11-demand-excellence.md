@@ -1,6 +1,6 @@
 ---
 title: Demand Excellence From You and Yours
-layout: single
+layout: post
 tags: [life coaching]
 categories: [Misc]
 permalink: 

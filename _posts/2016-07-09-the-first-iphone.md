@@ -1,6 +1,6 @@
 ---
 title: The First iPhone
-layout: single
+layout: post
 share: true
 comments: true
 permalink: /first-iphone

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: How to read the news - 3 ways to overcome bias

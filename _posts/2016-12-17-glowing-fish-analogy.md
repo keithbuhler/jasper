@@ -5,7 +5,7 @@ header:
       image: 
       teaser: https://i.ytimg.com/vi/aAdsxU_-4ZU/maxresdefault.jpg
 permalink: 
-layout: single
+layout: post
 tags: [humor]
 comments: true
 author_profile: false

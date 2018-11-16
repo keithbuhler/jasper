@@ -1,6 +1,6 @@
 ---
 title: No one predicted Trump's election. Ha. Helmut Norpath Did.
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics]
 permalink: 

@@ -1,6 +1,6 @@
 ---
 title: Try Proton Mail for Secure Email
-layout: single
+layout: post
 categories: [Misc]
 tags: [writing, workflow, life]
 permalink: 

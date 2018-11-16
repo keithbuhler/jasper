@@ -1,6 +1,6 @@
 ---
 title: Lucas Liked Rogue One
-layout: single
+layout: post
 categories: [Culture]
 tags: [Star Wars, culture]
 permalink: 

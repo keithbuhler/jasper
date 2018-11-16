@@ -1,6 +1,6 @@
 ---
 title: The New Free Speech Fault Line
-layout: single
+layout: post
 tags: [politics]
 categories: [Politics]
 permalink: /free-speech

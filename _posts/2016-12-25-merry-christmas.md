@@ -5,7 +5,7 @@ header:
       image: 
       teaser: http://middleagedmormonman.com/home//wp-content/uploads/2013/12/Adoration-detail.jpg
 permalink: 
-layout: single
+layout: post
 tags: [chesterton]
 comments: true
 author_profile: false

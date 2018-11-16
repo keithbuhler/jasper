@@ -1,6 +1,6 @@
 ---
 title: How to Format a Dissertation in LaTeX and Markdown
-layout: single
+layout: post
 tags: [markdown, writing, workflow, latex]
 categories: [Misc]
 permalink: 

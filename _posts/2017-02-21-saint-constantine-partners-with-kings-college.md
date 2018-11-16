@@ -6,7 +6,7 @@ header:
       teaser: https://media.licdn.com/media/AAEAAQAAAAAAAARAAAAAJDcwNDM5OWY5LTZkMGUtNDdhNi1hODYyLTM1MzEwMjkxMDcxYg.png
 excerpt: 
 permalink: 
-layout: single
+layout: post
 tags: [Saint Constantine School, classical education, academia]
 comments: true
 author_profile: false

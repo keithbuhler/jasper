@@ -1,6 +1,6 @@
 ---
 title: America is Not a Class-less Society
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics, class]
 permalink: 

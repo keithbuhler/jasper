@@ -1,6 +1,6 @@
 ---
 title: Seeing Other as Self, Seeing Self as Other
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

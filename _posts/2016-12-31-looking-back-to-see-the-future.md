@@ -6,7 +6,7 @@ header:
       teaser: 
 excerpt: 
 permalink: /future
-layout: single
+layout: post
 tags: [prophecy, the future, retrospective]
 comments: true
 author_profile: false

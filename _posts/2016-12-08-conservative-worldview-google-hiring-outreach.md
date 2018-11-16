@@ -1,6 +1,6 @@
 ---
 title: Google (Alphabet) Hiring Ideological Outreach Managers
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics]
 permalink: 

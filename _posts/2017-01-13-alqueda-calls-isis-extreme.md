@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://imgs.xkcd.com/comics/crazy_straws.png
 permalink: 
-layout: single
+layout: post
 tags: [ISIS]
 comments: true
 author_profile: false

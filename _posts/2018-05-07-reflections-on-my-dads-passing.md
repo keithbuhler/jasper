@@ -1,6 +1,6 @@
 --- 
 title: Reflections on my father's passing
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

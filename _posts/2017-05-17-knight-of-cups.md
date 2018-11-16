@@ -1,6 +1,6 @@
 ---
 title: Reflections on Malick's *Knight of Cups*
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true

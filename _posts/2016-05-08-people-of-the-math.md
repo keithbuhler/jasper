@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: How to teach math in a classical school 

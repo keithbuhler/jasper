@@ -1,6 +1,6 @@
 ---
 title: The Pattern of the Trump-Media News Cycle
-layout: single
+layout: post
 tags: [politics, news, bias]
 categories: [Politics]
 permalink: 

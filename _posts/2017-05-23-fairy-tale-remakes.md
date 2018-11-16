@@ -1,6 +1,6 @@
 ---
 title: Why They Keep Re-Making Classic Fairy Tales
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 share: true

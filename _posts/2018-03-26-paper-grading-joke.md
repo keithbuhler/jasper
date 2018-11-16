@@ -4,7 +4,7 @@ categories: [Smiles]
 tags: [humor, smiles, misc]
 permalink: 
 excerpt_separator: <!--more-->
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---

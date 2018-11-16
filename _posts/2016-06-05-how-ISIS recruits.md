@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: How ISIS recruits new soldiers

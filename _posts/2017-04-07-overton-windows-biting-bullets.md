@@ -6,7 +6,7 @@ header:
       teaser: http://48hcc.nz/wp-content/uploads/2016/11/Overton_Window-1024x538.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
 tags: [Overton window, epistemology, weird views]
 comments: true
 author_profile: false

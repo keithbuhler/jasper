@@ -6,7 +6,7 @@ header:
       teaser: http://www.keithbuhler.com/images/trees-holy-cross.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
 tags: [essay, fear of death, politics]
 author_profile: false
 excerpt_separator: <!--more-->

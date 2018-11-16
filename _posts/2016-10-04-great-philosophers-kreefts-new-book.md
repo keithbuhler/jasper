@@ -1,6 +1,6 @@
 ---
 title: 100 Great Philosophers -- Peter Kreeft's New Book
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy]
 permalink: 

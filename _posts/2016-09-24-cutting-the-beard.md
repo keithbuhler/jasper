@@ -1,6 +1,6 @@
 ---
 title: Why I'm Cutting the Beard
-layout: single
+layout: post
 categories: []
 tags: [humor, beards]
 permalink: 

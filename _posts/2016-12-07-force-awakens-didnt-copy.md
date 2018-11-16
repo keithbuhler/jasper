@@ -1,6 +1,6 @@
 ---
 title: Force Awakens Wasn't Just a Copy of New Hope
-layout: single
+layout: post
 categories: [Culture]
 tags: [Star Wars, culture]
 permalink: /viicopyiv

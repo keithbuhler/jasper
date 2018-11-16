@@ -1,6 +1,6 @@
 ---
 title: Einstein's Law  of Quotation Mis-attribution
-layout: single
+layout: post
 share: true
 comments: true
 tags: [philosophy, humor]

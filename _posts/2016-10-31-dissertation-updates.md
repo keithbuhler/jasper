@@ -1,6 +1,6 @@
 ---
 title: A Brief Dissertation Update
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy]
 permalink: 

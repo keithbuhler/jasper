@@ -4,7 +4,7 @@ categories: [Culture]
 tags: [politics, culture, trump]
 permalink: 
 excerpt_separator: <!--more-->
-layout: single
+layout: post
 share: true
 related: true
 comments: true

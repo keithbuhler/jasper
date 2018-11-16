@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://www.indybay.org/uploads/2016/11/11/no-peaceful-transition-disrupt-j20.jpg
 permalink: 
-layout: single
+layout: post
 tags: [Trump, politics]
 comments: true
 author_profile: false

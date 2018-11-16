@@ -5,7 +5,7 @@ header:
       image: 
       teaser: https://cdn.psychologytoday.com/sites/default/files/blogs/84326/2013/10/135166-141118.jpg
 permalink: 
-layout: single
+layout: post
 tags: [persuasion, rhetoric, coercion, soft coercion, argument]
 comments: true
 author_profile: false

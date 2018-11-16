@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://open.biola.edu/uploads/group/mobile_banner/11/default_default_17-Torrey-mobile.png
 permalink: 
-layout: single
+layout: post
 tags: [Torrey Honors, classical education]
 comments: true
 author_profile: false

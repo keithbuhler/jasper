@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: Scientism is a True but Trivial; Can We Move On?

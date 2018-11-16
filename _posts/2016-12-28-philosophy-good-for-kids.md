@@ -4,7 +4,7 @@ categories: [Philosophy]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 permalink: 
-layout: single
+layout: post
 tags: [philosophy, children]
 comments: true
 author_profile: false

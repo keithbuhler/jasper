@@ -1,6 +1,6 @@
 ---
 title: My Final (November 2nd) Prediction -- Trump Will Win
-layout: single
+layout: post
 permalink: /trump/
 categories: [Politics]
 comments: true

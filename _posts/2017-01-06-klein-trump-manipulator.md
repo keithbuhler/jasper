@@ -5,7 +5,7 @@ header:
     image: https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/09/30/BostonGlobe.com/Arts/Images/9514039372_c6dbe9a127_o.jpg
 teaser: https://c.o0bg.com/rf/image_960w/Boston/2011-2020/2013/09/30/BostonGlobe.com/Arts/Images/9514039372_c6dbe9a127_o.jpg
 permalink: /Politics/klein--trump-manipulator-in-chief
-layout: single
+layout: post
 tags: []
 comments: true
 author_profile: false

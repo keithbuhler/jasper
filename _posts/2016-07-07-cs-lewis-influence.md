@@ -1,6 +1,6 @@
 ---
 title: C.S. Lewis Influence Survey
-layout: single
+layout: post
 share: true
 comments: true
 tags: [wisdom, C.S. Lewis]

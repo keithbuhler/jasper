@@ -1,6 +1,6 @@
 ---
 title: A Dialog on Diversity of Opinion
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

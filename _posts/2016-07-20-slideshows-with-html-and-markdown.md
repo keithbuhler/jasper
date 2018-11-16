@@ -1,6 +1,6 @@
 ---
 title: How to Create Slideshows with Markdown (instead of Powerpoint or Google)
-layout: single
+layout: post
 tags: [markdown, writing, workflow]
 categories: [Misc]
 permalink: 

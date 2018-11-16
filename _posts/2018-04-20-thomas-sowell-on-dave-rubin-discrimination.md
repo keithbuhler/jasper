@@ -1,6 +1,6 @@
 --- 
 title: Thomas Sowell on Three Kinds of Discrimination (on the Rubin Report)
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

@@ -1,6 +1,6 @@
 ---
 title: Guest post 2 -- "Can CEO Pay Be Unjustifiably High?" by Stephanie Obieroma
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

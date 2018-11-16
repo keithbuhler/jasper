@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://blog.bleacherreport.com/wp-content/uploads/2011/10/New-York-Times-Logo.jpg
 permalink: 
-layout: single
+layout: post
 tags: [politics, conservatism]
 comments: true
 author_profile: false

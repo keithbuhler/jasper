@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://img.huffingtonpost.com/asset/scalefit_630_noupscale/586ffa751b00002c006e5fca.jpeg
 permalink: 
-layout: single
+layout: post
 tags: [politics, facebook, conservatism, liberal privilege]
 comments: true
 author_profile: false

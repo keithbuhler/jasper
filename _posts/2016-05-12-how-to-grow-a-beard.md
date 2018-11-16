@@ -9,7 +9,7 @@ categories: [Misc]
 excerpt_separator: <!--more-->
 permalink: /humor/how-to-grow-a-beard-in-3-steps/
 sidebar: 
-layout: single
+layout: post
 ---
 
 <figure>

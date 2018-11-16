@@ -6,7 +6,7 @@ header:
       teaser: http://parks.lacounty.gov/wps/wcm/connect/7b7d5069-f3da-4a61-9088-d15af9daf9b6/Castaic+Lake+crop.jpg?MOD=AJPERES&CACHEID=7b7d5069-f3da-4a61-9088-d15af9daf9b6
 excerpt: 
 permalink: /job/
-layout: single
+layout: post
 tags: [life updates, buhlers]
 comments: true
 author_profile: false

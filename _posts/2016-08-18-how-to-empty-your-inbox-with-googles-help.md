@@ -1,6 +1,6 @@
 ---
 title: How to Empty your Inbox (with Google's Help)
-layout: single
+layout: post
 header:
     image: http://68.media.tumblr.com/dbd78679696ec7a82f7030eb383dd51b/tumblr_nhkufdIN851rdf37to1_1280.png
     teaser: http://68.media.tumblr.com/dbd78679696ec7a82f7030eb383dd51b/tumblr_nhkufdIN851rdf37to1_1280.png

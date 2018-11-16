@@ -1,6 +1,6 @@
 ---
 title: The IN-completeness of Physics
-layout: single
+layout: post
 tags: [philosophy, wisdom, science]
 categories: [Philosophy]
 permalink: 

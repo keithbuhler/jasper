@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: 
 permalink: 
-layout: single
+layout: post
 tags: [philosophy]
 comments: true
 author_profile: false

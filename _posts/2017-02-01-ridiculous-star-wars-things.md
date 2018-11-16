@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://cdn-ssl.s7.disneystore.com/is/image/DisneyShopping/fwb_rogue-one_20170117?$yetifwb$
 permalink: 
-layout: single
+layout: post
 tags: [Star Wars, humor]
 comments: true
 author_profile: false

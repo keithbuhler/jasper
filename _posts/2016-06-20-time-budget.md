@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 share: true
 comments: true
 title: Time Budget - How to Take Control of Your 112 Waking Hours

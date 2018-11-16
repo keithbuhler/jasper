@@ -4,7 +4,7 @@ categories: [Culture]
 tags: []
 permalink: 
 excerpt_separator: <!--more-->
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
 ---

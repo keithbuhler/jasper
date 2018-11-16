@@ -1,6 +1,6 @@
 ---
 title: Media Fret the End of the Election
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics]
 permalink: 

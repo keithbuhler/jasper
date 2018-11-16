@@ -1,6 +1,6 @@
 ---
 title: Philosophy, Psychology, and "Integration"
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy]
 permalink: 

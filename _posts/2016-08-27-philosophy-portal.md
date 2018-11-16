@@ -1,6 +1,6 @@
 ---
 title: Philosophy Portal -- My New Site for Students
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy]
 permalink: /philosophy-post/

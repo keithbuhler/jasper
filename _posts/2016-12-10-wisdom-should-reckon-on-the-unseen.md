@@ -1,6 +1,6 @@
 ---
 title: Why Wisdom Should Reckon on the Unforeseen
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy, wisdom]
 permalink: 

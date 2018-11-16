@@ -1,6 +1,6 @@
 --- 
 title: Never take religious freedom for granted
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

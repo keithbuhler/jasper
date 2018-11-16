@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://media.treehugger.com/assets/images/2015/01/paper_book_folded_in_heart_shape.jpg.650x0_q70_crop-smart.jpg
 permalink: 
-layout: single
+layout: post
 tags: [workflow, reading]
 comments: true
 author_profile: false

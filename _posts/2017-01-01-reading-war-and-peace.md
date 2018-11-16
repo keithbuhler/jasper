@@ -1,6 +1,6 @@
 ---
 title: So you want to read "War and Peace" -- here's how and why
-layout: single
+layout: post
 categories: [Culture]
 tags: [culture]
 permalink: 

@@ -1,6 +1,6 @@
 ---
 title: Free Speech (Sometimes) Cures Hate Speech
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics]
 permalink: 

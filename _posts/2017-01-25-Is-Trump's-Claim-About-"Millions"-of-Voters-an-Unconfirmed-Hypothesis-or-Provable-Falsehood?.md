@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://www.keithbuhler.com/images/trump-illegals.png
 permalink: 
-layout: single
+layout: post
 tags: [philosophy, politics, Trump, abductive reasoning]
 comments: true
 author_profile: false

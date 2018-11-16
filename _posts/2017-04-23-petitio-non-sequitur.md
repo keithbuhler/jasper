@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://cdn.psychologytoday.com/sites/default/files/blogs/67492/2013/06/127024-126515.jpg
 permalink: 
-layout: single
+layout: post
 tags: []
 comments: true
 author_profile: false

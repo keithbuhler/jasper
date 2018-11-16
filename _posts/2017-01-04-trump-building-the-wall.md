@@ -1,6 +1,6 @@
 ---
 title: Trump tells DHS to get ready to build the wall 
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics, Trump]
 permalink: 

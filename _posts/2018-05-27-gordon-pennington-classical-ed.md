@@ -1,6 +1,6 @@
 --- 
 title: How Gordon Pennington, Businessman and Marketing Director, Discovered Classical Education
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

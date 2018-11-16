@@ -1,6 +1,6 @@
 ---
 title: Wealth and Wisdom -- How Wisdom *is* Wealth
-layout: single
+layout: post
 tags: [philosophy, wisdom, money]
 categories: [Philosophy]
 permalink: 

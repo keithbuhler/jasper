@@ -1,6 +1,6 @@
 ---
 title: A Random Polish Fellow Has Beef with my Book
-layout: single
+layout: post
 categories: [Misc]
 Tags: [humor, misc]
 author_profile: true

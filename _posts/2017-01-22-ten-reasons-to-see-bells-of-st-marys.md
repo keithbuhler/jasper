@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://upload.wikimedia.org/wikipedia/en/6/66/Bells_st_marys.jpg
 permalink: 
-layout: single
+layout: post
 tags: [movies, film]
 comments: true
 author_profile: false

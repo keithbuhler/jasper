@@ -1,7 +1,7 @@
 ---
 title: How We See Your Candidate, an An Empathy-Building Chart
 categories: [Politics]
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: How We See Them Top 4 Presidential Candidates.png

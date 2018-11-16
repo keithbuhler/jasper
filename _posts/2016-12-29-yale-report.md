@@ -6,7 +6,7 @@ header:
 permalink: 
 share: true
 permalink: /yalereport-post/
-layout: single
+layout: post
 tags: [Classical education, yale]
 comments: true
 author_profile: false

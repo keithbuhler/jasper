@@ -1,6 +1,6 @@
 ---
 title: Media Fail
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics]
 permalink: 

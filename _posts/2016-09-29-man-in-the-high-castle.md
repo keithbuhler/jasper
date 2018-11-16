@@ -1,6 +1,6 @@
 ---
 title: A Quick Review of "*Man in the High Castle*"
-layout: single
+layout: post
 categories: [Culture]
 tags: [politics, culture]
 permalink: 

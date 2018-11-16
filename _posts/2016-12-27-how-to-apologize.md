@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://thomrainer.com/wp-content/uploads/2013/03/real-leaders-apologize.jpg
 permalink: 
-layout: single
+layout: post
 tags: [business, philosophy, apologies, forgiveness]
 comments: true
 author_profile: false

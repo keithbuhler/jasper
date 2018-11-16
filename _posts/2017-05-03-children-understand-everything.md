@@ -1,6 +1,6 @@
 ---
 title: Children Understand Everything
-layout: single
+layout: post
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: How We See Them Top 4 Presidential Candidates.png

@@ -1,6 +1,6 @@
 ---
 title: How to make Iced Coffee
-layout: single
+layout: post
 tags: [humor, how to]
 categories: [Misc]
 excerpt_separator: <!---more-->

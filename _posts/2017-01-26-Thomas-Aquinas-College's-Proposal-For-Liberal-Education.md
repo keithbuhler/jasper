@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://cardinalnewmansociety.org/wp-content/uploads/tac6.jpg
 permalink: 
-layout: single
+layout: post
 tags: [classical education, philosophy]
 comments: true
 author_profile: false

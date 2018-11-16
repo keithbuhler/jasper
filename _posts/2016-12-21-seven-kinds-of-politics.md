@@ -5,7 +5,7 @@ header:
       image: 
       teaser: http://4.bp.blogspot.com/-w2VQbT7bjO4/UuOoU9iq7nI/AAAAAAAAIwk/QCZzS5M2iTE/s1600/A+French+Cafe.+Photograph+courtesy+of+Pat+Guiney.+2294848759_75990646f3.jpg
 permalink: 
-layout: single
+layout: post
 tags: [politics]
 comments: true
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 title: The 50 Most Influential Living Philosophers
-layout: single
+layout: post
 categories: [Philosophy]
 tags: [philosophy, academia]
 permalink: 

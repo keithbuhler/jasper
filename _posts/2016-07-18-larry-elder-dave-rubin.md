@@ -1,6 +1,6 @@
 ---
 title: Dave Rubin and Larry Elder discuss the conservative/liberal divide
-layout: single
+layout: post
 tags: [politics, conservatism]
 categories: [Politics]
 permalink: 

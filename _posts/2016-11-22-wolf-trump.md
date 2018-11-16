@@ -1,6 +1,6 @@
 ---
 title: Crying Wolf or Sounding the Alarm -- How Scared Should We Be of Trump? 
-layout: single
+layout: post
 categories: [Politics]
 tags: [politics, Trump]
 permalink: 

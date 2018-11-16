@@ -1,6 +1,6 @@
 ---
 title: The Economic Value of Education
-layout: single
+layout: post
 tags: [classical education, politics, money, wisdom]
 categories: [Classical education]
 permalink: /economic-value-of-education

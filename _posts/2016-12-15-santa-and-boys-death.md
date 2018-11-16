@@ -5,7 +5,7 @@ header:
       image: 
       teaser: https://i.kinja-img.com/gawker-media/image/upload/s--G6PHn7ZF--/c_scale,fl_progressive,q_80,w_800/ax0qtdskfrxpabgyinwc.jpg
 permalink: 
-layout: single
+layout: post
 tags: [erumors]
 comments: true
 author_profile: false

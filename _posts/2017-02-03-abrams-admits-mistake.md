@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: https://i0.wp.com/media2.slashfilm.com/slashfilm/wp/wp-content/images/star-wars-victory-hug-700x294.jpg
 permalink: /star-wars/rey-hug
-layout: single
+layout: post
 tags: [Star Wars]
 comments: true
 author_profile: false

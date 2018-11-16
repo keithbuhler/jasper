@@ -1,6 +1,6 @@
 ---
 title: My Prediction -- Mayweather will win in round 12
-layout: single
+layout: post
 share: true
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg

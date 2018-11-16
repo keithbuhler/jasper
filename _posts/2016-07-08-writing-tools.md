@@ -1,6 +1,6 @@
 ---
 title: Drive, Scrivener, and Markdown -- Tools for Writing
-layout: single
+layout: post
 share: true
 comments: true
 permalink: /writing-tools

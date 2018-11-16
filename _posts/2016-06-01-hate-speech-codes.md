@@ -5,7 +5,7 @@ tags: [politics, free speech]
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser:
-layout: single
+layout: post
 share: true
 comments: true
 permalink: /hate-speech

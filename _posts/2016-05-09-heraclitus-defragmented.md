@@ -2,7 +2,7 @@
 header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser:
-layout: single
+layout: post
 share: true
 comments: true
 title: Heraclitus Defragmented - An Interpretation

@@ -5,7 +5,7 @@ header:
       image: 
       teaser: http://pentagon.spacelist.org/images/arielshot-after.jpg
 permalink: 
-layout: single
+layout: post
 tags: [9/11]
 comments: true
 author_profile: false

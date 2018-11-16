@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: 
 permalink: 
-layout: single
+layout: post
 tags: [politics, feminism]
 comments: true
 author_profile: false

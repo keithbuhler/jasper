@@ -5,7 +5,7 @@ header:
       image: http://www.keithbuhler.com/images/banner-buhler-report.svg
       teaser: http://dz0zjhi21dz2t.cloudfront.net/media/80687/tour/1413353793514/1536_front.jpg
 permalink: 
-layout: single
+layout: post
 tags: [money, stipends, philosophy, academia]
 comments: true
 author_profile: false

@@ -1,6 +1,6 @@
 ---
 title: Comic Book Girl 19's Take on Ghostbusters (2016)
-layout: single
+layout: post
 tags: [movies, feminism, politics, culture]
 categories: [Culture]
 excerpt_separator: <!---more-->

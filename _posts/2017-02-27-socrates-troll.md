@@ -6,7 +6,7 @@ header:
       teaser: http://www.antarcticaedu.com/lawsocratestrial.jpg
 excerpt: 
 permalink: 
-layout: single
+layout: post
 tags: [humor, Socrates]
 comments: true
 author_profile: false
